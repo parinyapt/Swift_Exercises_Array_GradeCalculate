@@ -1,3 +1,5 @@
+//Create Date 17-03-2022
+//64130010049 Parinya Termkasipanich
 import Foundation
 
 let config_stdnumber = 12
